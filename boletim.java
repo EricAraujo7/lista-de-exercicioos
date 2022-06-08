@@ -37,7 +37,7 @@ public class boletim
        a3.turma = "2-11";
        a3.periodo = "integral";   
        Alunosdj a4 = new Alunosdj();
-       a4.nome = "Lili";
+       a4.nome = "Carlos";
        a4.Mnota1 = 10;
        a4. Mnota2 = 9;
        a4. Mnota3 = 9;
